@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  font-family: Proxima Nova;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+#root {
+  height: 100%;
+}
+
+#root > section {
+  height: 100%;
+}
+
+h3 {
+  font-family: 'Pixeloid Mono', sans-serif;
+}
+
+p {
+  font-family: 'Pixeloid Mono', sans-serif;
+}
