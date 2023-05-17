@@ -50,14 +50,18 @@ body {
   height: 100%;
 }
 
+/*
 #root > section {
   height: 100%;
 }
+ */
 
 h3 {
   font-family: 'Pixeloid Mono', sans-serif;
 }
 
+/*
 p {
   font-family: 'Pixeloid Mono', sans-serif;
 }
+ */

@@ -1,7 +1,7 @@
 import react from 'react';
 
 const Footer = () => (
-    <footer className="bg-white dark:bg-gray-800 w-full py-8">
+    <footer className="bg-white dark:bg-black w-full py-8">
         <div className="max-w-screen-xl px-4 mx-auto">
             <div className="pt-8 flex max-w-xs mx-auto items-center justify-between">
                 <a

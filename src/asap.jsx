@@ -20,14 +20,6 @@ const Asap = () => {
       </div>
       <div className="relative max-w-4xl mx-auto">
         <img className="w-full h-96 mb-12 object-cover" src={im1} alt />
-        <div className="flex flex-wrap -mx-5">
-          <div className="w-full lg:w-4/5 px-5 mb-6 lg:mb-0">
-            <div className="relative py-12 px-10 lg:px-20 bg-gray-900 rounded-xl">
-              <h3 className="mb-6 text-xl text-white font-bold font-heading">To see body of work and discuss your project, please @ me at:</h3>
-              <p className="text-lg text-gray-300">haaning.frederik@gmail.com</p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>
